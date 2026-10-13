@@ -135,11 +135,11 @@ Time series analysis applied to climate data from Delhi, exploring patterns, tre
 <tr>
 <td width="50%" valign="top">
 
-### Retail Transactions — Apriori
+### XGBoost — London Houses
 
-Association rule mining applied to retail transaction data to identify purchasing patterns using **Apriori**.
+Machine Learning regression project using **XGBoost** to predict house prices based on features from the London housing dataset.
 
-<a href="https://github.com/sarahsalvino/Transacoes-de-varejo-com-APRIORI">
+<a href="https://github.com/sarahsalvino/XGBoost---London-Houses">
 <img src="https://img.shields.io/badge/View%20Project-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -147,11 +147,11 @@ Association rule mining applied to retail transaction data to identify purchasin
 
 <td width="50%" valign="top">
 
-### Breast Cancer — Decision Tree
+### KNN — Wine Quality
 
-Machine Learning classification project using **Decision Tree** to investigate patterns within the Breast Cancer dataset.
+Machine Learning classification project using **K-Nearest Neighbors (KNN)** to explore wine quality classification based on physicochemical properties.
 
-<a href="https://github.com/sarahsalvino/Decision-Tree---Breast-Cancer">
+<a href="https://github.com/sarahsalvino/KNN---Wine-Quality">
 <img src="https://img.shields.io/badge/View%20Project-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
